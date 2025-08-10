@@ -25,7 +25,7 @@ Al ejecutar, se creará `data/ventas.db` con la tabla `ventas_limpias`.
 También intentará exportar `data/ventas_limpias.parquet` si `pyarrow` está disponible.
 
 ## Diagrama del flujo ETL
-![Diagrama ETL](docs/etl-diagram.png)
+![Diagrama ETL](../docs/etl-diagram.png)
 
 ## Ejemplo de salida
 (Contenido del archivo `docs/sample_output.md`)
