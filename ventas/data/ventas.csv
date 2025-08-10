@@ -1,0 +1,8 @@
+fecha,producto,precio_unitario,cantidad,cliente_id,region
+2025-07-28,Camiseta,19.99,3,1001,EU
+2025-07-29,Pantalon,34.50,1,1002,EU
+2025-07-30,Zapatillas,59.00,2,1003,NA
+2025-07-31,Camiseta,19.99,1,1001,EU
+2025-08-01,Gorra,12.00,5,1004,LATAM
+2025-08-02,Camiseta,19.99,,1005,EU
+2025-08-03,Pantalon,34.50,2,1006,EU
